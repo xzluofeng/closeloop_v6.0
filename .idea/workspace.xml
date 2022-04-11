@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ade923b-ceee-4968-8970-73d2e1f7ea96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../11 branch/新数据模型/cdrbhapp/src/main/java/com/winning/cdrbhapp/cdr/service/CronJobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03 患者360视图/02 V3.0/01 源代码/cdrcapi/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03 患者360视图/02 V3.0/01 源代码/cdrcapi/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03 患者360视图/02 V3.0/01 源代码/cdrcapi/src/main/resources/application-cdrcapi.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03 患者360视图/02 V3.0/01 源代码/cdrcapi/src/main/resources/application-cdrcapi.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cdrbhapp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cdrbhapp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closeLoopapi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../closeLoopapi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closeLoopapi/src/main/resources/application-closeloopapi.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../closeLoopapi/src/main/resources/application-closeloopapi.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closeloop/assets/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../closeloop/assets/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 branch/新数据模型/cdrbhapp/src/main/resources/application-cdrbhapp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 branch/新数据模型/cdrbhapp/src/main/resources/application-cdrbhapp.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 branch/新数据模型/closeLoopapi/src/main/resources/application-closeloopapi.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 branch/新数据模型/closeLoopapi/src/main/resources/application-closeloopapi.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 branch/新数据模型/closeloop/assets/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 branch/新数据模型/closeloop/assets/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10 移动360/02 V3.0/01 源代码/mobile360/public/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../10 移动360/02 V3.0/01 源代码/mobile360/public/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../19 统一授权管理/03 统一授权管理系统/01 源代码/auth-api/.idea/libraries/Maven__com_alibaba_fastjson_1_2_33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../19 统一授权管理/03 统一授权管理系统/01 源代码/auth-api/.idea/libraries/Maven__com_alibaba_fastjson_1_2_33.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../19 统一授权管理/03 统一授权管理系统/01 源代码/auth-api/src/main/resources/application-auth.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../19 统一授权管理/03 统一授权管理系统/01 源代码/auth-api/src/main/resources/application-auth.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26pLnQZ4HzuKWNavxpGJWxadyUN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/WorkSpace/yiny_monitor" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.jsr45.JSR45ConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="PORT" value="80" />
+      <server-settings>
+        <option name="JSP_PACKAGE" value="org.apache.jsp" />
+        <option name="VM_OPTS" value="" />
+        <option name="USE_WEBSPHERE51_LINEMAPPING_MODEL" value="false" />
+        <option name="LOCAL_PORT" value="80" />
+      </server-settings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55159" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ade923b-ceee-4968-8970-73d2e1f7ea96" name="Changes" comment="" />
+      <created>1648115748836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648115748836</updated>
+      <workItem from="1648115750487" duration="479000" />
+      <workItem from="1648171560229" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
